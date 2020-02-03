@@ -1,2 +1,3 @@
 # Dotfiles
-My dotfiles. For different configuration 
+
+Configuration files for my development tools, just the way I like it
